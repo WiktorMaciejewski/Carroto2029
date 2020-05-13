@@ -1,6 +1,6 @@
 # Carroto2029
  
-Game developed in Unity
+Game developed in Unity as part of my final year project at university. 
 
 Note: This game was developed for 1920x1080 resolution and 16:9 aspect ratio. To make sure the game's layout is correct run the executable in that resolution. To make sure the game's layout is correct in the Unity editor set the "Game" tab aspect ratio to 16:9, I would also recommend to click the "Maximise on play" button.
 
